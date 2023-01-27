@@ -1,0 +1,8 @@
+[user]
+	email = testuser-aqiL@protonmail.com
+	name = Aqil
+[init]
+	defaultBranch = master
+[core]
+	editor = nvim
+
